@@ -1,5 +1,8 @@
 header{
     background-color: #5b7989
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 body{
@@ -11,4 +14,17 @@ h1{
   font-align: left;
   color:white;
   text-shadow: 1px 2px #02010a;
+}
+
+ul{
+  list-style: none;
+  font-size: 1m;
+}
+
+li{
+  float: left;
+}
+div.MenuPrincipal{
+  padding: 15px 40px;
+  color:white
 }
