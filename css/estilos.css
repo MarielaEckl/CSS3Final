@@ -1,5 +1,5 @@
 header{
-    background-color: #5b7989
+    background-color: #5b7989;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -24,7 +24,6 @@ ul{
 li{
   float: left;
 }
-div.MenuPrincipal{
-  padding: 15px 40px;
+a.item{
   color:white
 }
